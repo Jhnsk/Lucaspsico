@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <title>Avaliação Psicológica para Cirurgia Bariátrica</title>
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: linear-gradient(to right bottom, #2E5EAA, lightgreen 150%);
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    nav {
+      background: royalblue;
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      padding: 1rem;
+    }
+    nav a {
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      margin-top: 1rem;
+      border-radius: 10px;
+      box-shadow: 0 0 10px #ccc;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #eee;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    .img-container{
+      display: flex;
+      justify-content: center;
+      
+      
+    }
+    .img-container img{
+      width: 200px;
+      height: 200px;
+      border-radius:50%;
+      border: 3px solid skyblue;
+    }
+    h2{
+      text-align: center;
+      color: royalblue;
+    }
+    strong{
+      color: royalblue;
+    }
+    p{
+      color: dimgray;
+    }
+    .p-text{
+      color: white;
+    }
+    .name-strong{
+      color: white;
+    }
+    .principal-p{
+      color: white;
+      font-weight: 200;
+      word-wrap: wrap;
+      
+    }
+    
+    .link-btn a{
+      display: inline-block;
+      width: 360px;
+      height:40px;
+      background: limegreen;
+      color: white;
+      line-height: 40px;
+      text-decoration: none;
+      border-radius: 10px;
+      
+    }
+    i{
+      margin-right: 10px;
+    }
+  </style>
+
+</head>
+<body>
+<nav>
+  <a href="#valores">Valores</a>
+  <a href="#como-funciona">Como Funciona</a>
+  <a href="#faq">Perguntas Frequentes</a>
+  <a href="#sobre-mim">Sobre Mim</a>
+</nav>
+<header>
+  <h1>Avaliação Psicológica para Cirurgia Bariátrica</h1>
+  <p class="p-text">Com o Psicólogo <strong class="name-strong">Lucas Gabriel Índio do Brasil dos Santos </strong>(CRP 03/30850)
+Atendimento 100% online, com ética, sigilo e acolhimento.</p>
+  <div class="img-container">
+      <img src="media/lucas" />
+  </div>
+
+  <p class="principal-p">Psicólogo Lucas Gabriel — Atendimento com ética e acolhimento</p>
+  
+  <div class="link-btn">
+   
+    <a href="#"> <i class="bi bi-calendar"></i> Quero agendar minha avaliação agora</a>
+  </div>
+</header>
+
+
+
+<section id="avaliacao">
+  <div class="icon-content">
+     <i class="bi bi-heart"></i>
+  </div>
+ 
+  <h2>🌱 Por que fazer a Avaliação Psicológica?</h2>
+  
+  <p>A avaliação psicológica é uma etapa <strong>obrigatória</strong> no processo pré-operatório de cirurgia bariátrica, recomendada pelas equipes médicas e exigida por normativas técnicas e éticas.</p>
+
+  
+  <p>Mais do que uma formalidade, trata-se de um <strong>processo clínico e científico</strong>, cujo objetivo é compreender aspectos emocionais, cognitivos e comportamentais que influenciam sua relação com o corpo, alimentação, autoestima e expectativas sobre a cirurgia.</p>
+</section>
+
+<section id="Sobre-mim">
+  <div class="icon-content">
+     <i class="bi bi-heart"></i>
+  </div>
+  <h2>Sobre mim</h2>
+  <p>Sou <strong>Lucas Gabriel</strong>, psicólogo formado pela <strong>UNIFAM</strong> (Feira de Santana – BA), com formação específica em <strong>avaliação psicológica para cirurgia bariátrica</strong>. Atuo com base na <strong>Terapia Cognitivo-Comportamental (TCC)</strong>, oferecendo avaliações online de forma ética, humanizada e conforme as normas do <strong>Conselho Federal de Psicologia (CFP)</strong>. Meu compromisso é proporcionar um processo seguro, acolhedor e profissional para quem está se preparando para esse importante passo.</p>
+ 
+</section>
+
+<section id="funciona">
+  
+  <div class="icon-content">
+  <i class="bi bi-heart"></i>
+</div>
+
+  <h2>💻 Como funciona a avaliação?</h2>
+  <p>Toda a avaliação é realizada de forma <strong>100% online</strong>, seguindo a Resolução CFP nº 11/2018, que regulamenta os serviços psicológicos mediados por tecnologia.</p>
+  
+</section>
+
+<section id="sobre-mim">
+  <div class="icon-content">
+  <i class="bi bi-heart"></i>
+</div>
+  <h2>⚖ Sigilo, Ética e Responsabilidade</h2>
+  <p>Sou psicólogo formado pela Unifam (Feira de Santana - BA), com formações complementares em Avaliação Psicológica e Avaliação para Cirurgia Bariátrica. Atuo com a abordagem da Terapia Cognitivo-Comportamental (TCC), oferecendo um atendimento humanizado e sigiloso, totalmente online.</p>
+</section>
+
+<footer>
+  <p>CRP: [insira seu número aqui] | Atendimento online em conformidade com o Conselho Federal de Psicologia</p>
+</footer>
+
+<!-- Script (se necessário) para navegação suave -->
+<script>
+  document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+    anchor.addEventListener('click', function(e) {
+      e.preventDefault();
+      document.querySelector(this.getAttribute('href')).scrollIntoView({
+        behavior: 'smooth'
+      });
+    });
+  });
+</script>
+
+</body>
+</html>
